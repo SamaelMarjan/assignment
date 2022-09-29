@@ -1,4 +1,5 @@
 import React from "react";
+import Footer from "./compopnents/Footer";
 import Logo from "./compopnents/Logo";
 
 import Navbar from "./compopnents/Navbar";
@@ -14,6 +15,7 @@ function App() {
       <Home />
       <About />
       <Logo />
+      <Footer />
     </div>
     </>
   );

@@ -12,7 +12,7 @@ const Home = () => {
     <>
     <div id='home'>
 
-        <div className='relative w-[100%] h-[570px]'>
+        <div className='relative w-[100%] h-[650px]'>
         <img src={Img} alt='img' className='w-[100%] h-[100%]' />
         </div>
 
